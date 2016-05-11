@@ -1,4 +1,6 @@
 *
 !.gitignore
+!.dockerignore
 !Dockerfile
 !Vagrantfile
+!README.md
